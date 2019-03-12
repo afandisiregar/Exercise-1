@@ -1,0 +1,47 @@
+body{
+background-color: #416bf4;
+}
+
+.text-header{
+  font-size: 70px;
+  font-style: italic;
+  color:white;
+}
+
+.span-header{
+  font-size: 30px;
+  font-style: none;
+  color:
+}
+
+.container{
+  margin-top: 70px;
+}
+
+.gambar{
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+  margin: 70px;
+}
+
+.image{
+  border-radius: 50%;
+}
+
+.name{
+  margin-top: 20px;
+}
+
+.informasi-diri{
+  margin-top: 50px;
+  color: white;
+}
+
+.informasi-diri tr{
+  color: white;
+}
+
+.informasi-diri p {
+  color: white;
+}
